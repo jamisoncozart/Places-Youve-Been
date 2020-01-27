@@ -29,15 +29,10 @@ _This project is was built with the purpose of accepting user inputs in the form
 ## Technologies Used
 
 * _HTML_
-
 * _Bootstrap_
-
 * _CSS_
-
 * _Git_
-
 * _JavaScript_
-
 * _jQuery_
 
 ### License
