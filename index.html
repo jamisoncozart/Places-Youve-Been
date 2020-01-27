@@ -18,16 +18,17 @@
   <div class="container">
     <form id="userInput">
       <label>Place Name(Country, City, etc):</label>
-      <input type="text">
+      <input id="location" type="text">
       <label>Date Visited(MM/DD/YYYY):</label>
-      <input type="text">
+      <input id="date" type="text">
       <label>Length of Visit(In days):</label>
-      <input type="text">
+      <input id="days" type="text">
       <button type="submit" class="btn btn-success">Submit!</button>
     </form>
+    <button id="showLogs" class="btn btn-primary">Oh the Places You've been!</button>
   </div>
-  <div id="result">
-    
+  <div>
+    <ul id="result"></ul>
   </div>
 </body>
 
